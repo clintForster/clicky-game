@@ -1,0 +1,48 @@
+[{
+    "id": 1,
+    "image": "./images/all-that.jpg"
+},
+{
+    "id": 2,
+    "image": "./images/angry-beavers.jpg"
+},
+{
+    "id": 3,
+    "image": "./images/cat-dog.jpg"
+},
+{
+    "id": 4,
+    "image": "./images/doug.jpg"
+},
+{
+    "id": 5,
+    "image": "./images/hey-arnold.jpg"
+},
+{
+    "id": 6,
+    "image": "./images/real-monsters.jpg"
+},
+{
+    "id": 7,
+    "image": "./images/ren-and-stimpy.jpg"
+},
+{
+    "id": 8,
+    "image": "./images/rocket-power.jpg"
+},
+{
+    "id": 9,
+    "image": "./images/rockos-modern-life.jpg"
+},
+{
+    "id": 10,
+    "image": "./images/rugrats.jpg"
+},
+{
+    "id": 11,
+    "image": "./images/spongebob.jpg"
+},
+{
+    "id": 12,
+    "image": "./images/wild-thornberrys.jpg"
+}]
