@@ -6,7 +6,7 @@ function TileList(props) {
     return (
         <div className="card">
             <div className="img-container">
-                <img alt={props.id} src={props.src} />
+                <img className="img-thumbnail img-responsive" alt={props.id} src={props.src} onClick={() => props.handleClick(props.id)}/>
             </div>
         </div>
     );
